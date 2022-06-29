@@ -1,14 +1,12 @@
 {
     "name": "com.habbysdk.besthttplib",
-    "displayName": "Habby BestHttpLib",
+    "displayName": "HabbyBestHttpLib",
+    "version": "1.0.0",
     "unity": "2019.4",
     "_upm": {
       "changelog": "### BestHttp\n- Add."
     },
-    "version": "1.0.2",
     "description": "BestHttp lib",
-    "dependencies": {
-    },
     "keywords": [
       "HabbyBestHttp",
       "HabbySDK"
