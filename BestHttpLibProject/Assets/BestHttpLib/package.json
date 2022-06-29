@@ -8,7 +8,6 @@
     "version": "1.0.0",
     "description": "BestHttp lib",
     "dependencies": {
-        "com.unity.nuget.newtonsoft-json": "2.0.0"
     },
     "keywords": [
       "HabbyBestHttp",
