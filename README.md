@@ -1,3 +1,0 @@
-# BestHttpLib
-
-public lib
